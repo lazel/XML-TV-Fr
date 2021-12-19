@@ -5,7 +5,7 @@ class La1ere extends Provider {
     private static $channelsList;
 
     public static function getPriority() {
-        return 0.993;
+        return 0.30;
     }
 
     public function __construct() {
